@@ -10,29 +10,29 @@ This is a python script used to solve the house price prediction problem provide
 - sklearn
 
 ## Files Explanation
-- train.csv ：raw training data set
-- test.csv ：raw test data set
-- data_description.txt ：features description file
-- Project1.ipynb ：main program
-- sample_submission1.csv ：ridge regression result
-- sample_submission2.csv ：lasso regression result
-- sample_submission3.csv ：elastic network result
+- train.csv ：raw training data set.
+- test.csv ：raw test data set.
+- data_description.txt ：features description file.
+- Project1.ipynb ：main program.
+- sample_submission1.csv ：ridge regression result.
+- sample_submission2.csv ：lasso regression result.
+- sample_submission3.csv ：elastic network result.
 
 ## Important Variables Explanation
-- train : raw training set
-- test : raw test set
-- SalePrice : SalePrice 
-- full : new data set combined with training set and test set
-- skew_features : skewness values of all numeric features
-- final_train : training set after preprocessing
-- final_test : test set after preprocessing
-- alphas_alt : Alternative parameter for ridge regression model
-- alphas2 : Alternative parameter for lasso regression model
-- e_alphas : Alternative parameter for elastic network model
-- e_l1ratio : Alternative parameter for elastic network model
-- result1 : prediction result calculated by ridge regression model
-- result2 : prediction result calculated by lasso regression model
-- result3 : prediction result calculated by elastic network model
+- train : raw training set.
+- test : raw test set.
+- SalePrice : SalePrice. 
+- full : new data set combined with training set and test set.
+- skew_features : skewness values of all numeric features.
+- final_train : training set after preprocessing.
+- final_test : test set after preprocessing.
+- alphas_alt : Alternative parameter for ridge regression model.
+- alphas2 : Alternative parameter for lasso regression model.
+- e_alphas : Alternative parameter for elastic network model.
+- e_l1ratio : Alternative parameter for elastic network model.
+- result1 : prediction result calculated by ridge regression model.
+- result2 : prediction result calculated by lasso regression model.
+- result3 : prediction result calculated by elastic network model.
 
 ## Partial Results Display
 
