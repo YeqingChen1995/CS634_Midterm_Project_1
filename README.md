@@ -4,7 +4,7 @@ This is a python script used to solve the house price prediction problem provide
 
 ## Required Packages
 - numpy
-- panadas
+- pandas
 - seaborn
 - scipy
 - sklearn
