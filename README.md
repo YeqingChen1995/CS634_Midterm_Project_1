@@ -64,4 +64,4 @@ This is a python script used to solve the house price prediction problem provide
 |-----|-------------|---------|
 | 895 | YeqingChen  | 0.11936 |
 
-Score was calculated by Root Mean Squared Logarithmic Error
+Score was calculated by Root Mean Squared Logarithmic Error. 
