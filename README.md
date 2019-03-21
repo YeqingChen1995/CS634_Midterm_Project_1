@@ -1,4 +1,5 @@
 # House Prices Prediction Project
+
 This is a python script used to solve the house price prediction problem provided by [https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ## Required Packages
@@ -57,7 +58,8 @@ This is a python script used to solve the house price prediction problem provide
 |1478 |301600.4487908311  |
 |1479 |305541.21533308405 |
 
-##Current Kaggle Public Leaderboard Rank
+## Current Kaggle Public Leaderboard Rank
+
 |#    |Team Name    |Score    |
 |-----|-------------|---------|
 | 895 | YeqingChen  | 0.11936 |
