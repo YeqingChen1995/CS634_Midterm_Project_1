@@ -56,3 +56,10 @@ This is a python script used to solve the house price prediction problem provide
 |1477 |246213.34437531425 |
 |1478 |301600.4487908311  |
 |1479 |305541.21533308405 |
+
+##Current Kaggle Public Leaderboard Rank
+|#    |Team Name    |Score    |
+|-----|-------------|---------|
+| 895 | YeqingChen  | 0.11936 |
+
+Score was calculated by Root Mean Squared Logarithmic Error
