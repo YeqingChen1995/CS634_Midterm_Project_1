@@ -70,3 +70,6 @@ Score was calculated by Root Mean Squared Logarithmic Error.
 This project is based on Kaggle notebook created by Nanashi, House Prices Solution [0.107 LB]
 
 URL: https://www.kaggle.com/jesucristo/house-prices-solution-0-107-lb
+
+train.csv, test.csv, data_description.txt are available on Kaggle. 
+URL: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
